@@ -5,6 +5,16 @@
     <string name="fast_and_simple">Fast Simple and Securesign in and sign up process</string>
     <string name="create_election">Create Elections very smoothly in few steps and rock the world</string>
     <string name="invite_friends">What after creating an election ?</string>
-    <string name="invite_your_friends">Invite your friends to vote</string>
+    <string name="invite_your_friends">Invite your friends \n to vote</string>
     <string name="see_results_quickly">After completion of election. See Results very quickly</string>
+    <string name="title_activity_dashboard">Dashboard</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Logout</string>
+    <string name="contact_us">Feel free to contact us on out gitter channels and work with us on gitlab</string>
+    <string name="agora_vote_is">Agora vote is a voting \n platform where users can create elections and invite friends to cast their votes.</string>
+    <string name="t_supports_a">It supports a wide range \n of voting algorithms some \n of which are Majority,\n Egalitarian, Australian \n STV just to name a few</string>
 </resources>

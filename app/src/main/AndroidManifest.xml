@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".intro6"></activity>
+        <activity
+            android:name=".Dashboard"
+            android:label="@string/title_activity_dashboard"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".intro6" />
         <activity android:name=".intro5" />
         <activity android:name=".intro4" />
         <activity android:name=".intro3" />
