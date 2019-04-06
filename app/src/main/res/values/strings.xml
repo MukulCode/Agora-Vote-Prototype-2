@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Agora Vote Prototype 2</string>
+    <string name="agora_vote">Agora Vote is a voting platform where \n users can create elections and invite \nfriends to cast their votes</string>
+    <string name="it_supports">It supports a wide range of \n voting algorithms some of which are Majority, Egalitarian, Australian STV\n  just to name a few</string>
+    <string name="fast_and_simple">Fast Simple and Securesign in and sign up process</string>
+    <string name="create_election">Create Elections very smoothly in few steps and rock the world</string>
+    <string name="invite_friends">What after creating an election ?</string>
+    <string name="invite_your_friends">Invite your friends to vote</string>
+    <string name="see_results_quickly">After completion of election. See Results very quickly</string>
 </resources>
