@@ -4,15 +4,20 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/agora"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/agora"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".TotalElections"></activity>
+        <activity android:name=".FinishedElections" />
+        <activity android:name=".ActiveElections" />
+        <activity android:name=".PendingElections" />
+        <activity android:name=".Election1" />
         <activity
             android:name=".Dashboard"
             android:label="@string/title_activity_dashboard"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".intro6" />
         <activity android:name=".intro5" />
         <activity android:name=".intro4" />
