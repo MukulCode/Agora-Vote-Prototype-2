@@ -14,6 +14,8 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Logout</string>
+    <string name="candidates">1. Mukul Kumar  \n2. Abandon  \n3. Thuvarakan  \n4. Alex Stark</string>
+    <string name="technical_project_voting">\n Elections for college students \n to decide the best project out of \n the selected ones.</string>
     <string name="contact_us">Feel free to contact us on out gitter channels and work with us on gitlab</string>
     <string name="agora_vote_is">Agora vote is a voting \n platform where users can create elections and invite friends to cast their votes.</string>
     <string name="t_supports_a">It supports a wide range \n of voting algorithms some \n of which are Majority,\n Egalitarian, Australian \n STV just to name a few</string>

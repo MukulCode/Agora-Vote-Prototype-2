@@ -87,11 +87,12 @@ public class Dashboard extends AppCompatActivity
         } else if (id == R.id.nav_contact) {
             fragment=new ContactFragment();
 
-        } else if (id == R.id.nav_help) {
-
         } else if (id == R.id.nav_share) {
 
-        } else if (id == R.id.nav_profile) {
+        }  else if (id == R.id.nav_my_invitation) {
+            fragment=new MyInvitationFragment();
+        }
+            else if (id == R.id.nav_profile) {
             fragment=new ProfileFragment();
 
         }
