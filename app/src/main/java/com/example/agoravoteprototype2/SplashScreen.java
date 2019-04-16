@@ -12,6 +12,9 @@ public class SplashScreen extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        // Handles Rotation Of Splash Screen With Fade Out Animation
+
         setContentView(R.layout.activity_splash_screen);
         final ImageView iv=(ImageView) findViewById(R.id.imageView);
         final Animation an = AnimationUtils.loadAnimation(getBaseContext(),R.anim.rotate);

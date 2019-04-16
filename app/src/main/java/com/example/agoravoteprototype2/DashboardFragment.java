@@ -27,6 +27,9 @@ import android.widget.TextView;
             finished_txtview=(TextView)v.findViewById(R.id.finished_txtview);
             total_txtview=(TextView)v.findViewById(R.id.total_txtview);
             create_election_btn=(Button)v.findViewById(R.id.create_election_btn);
+
+            // Handle All Clicks On Dashboard And Directs Them To Respective Screens
+
             create_election_btn.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
